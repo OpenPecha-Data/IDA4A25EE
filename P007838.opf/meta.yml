@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD405
   title: མཛོད་ལྷ་འགྲེལ།
-  volume: ''
+  volume:
+    91e1c6b9437e400fa6899504b0aceb5f:
+      image_group_id: I2PD18030
+      title: Volume 1 of mdzod lha 'grel/
+      volume_number: 1
+      total_pages: 244
+    e4b8d8d25c154f32b993967b610dd657:
+      image_group_id: I2PD18031
+      title: Volume 2 of mdzod lha 'grel/
+      volume_number: 2
+      total_pages: 384
   author: ''
+ebook_metadata:
+  title: མཛོད་ལྷ་འགྲེལ།
+  author: ''
+  sku: P007838
+  cover: cover.jpg
+  layers:
+  - pagination
