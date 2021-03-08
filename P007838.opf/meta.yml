@@ -5,18 +5,16 @@ source_metadata:
   title: མཛོད་ལྷ་འགྲེལ།
   author: ''
   volumes:
-    91e1c6b9437e400fa6899504b0aceb5f:
+    dbc3f3610ce7489f8975b799c71112bf:
       image_group_id: I2PD18030
-      title: Volume 1 of mdzod lha 'grel/
+      title: ''
       volume_number: 1
       total_pages: 244
-      base_file: v001.txt
-    e4b8d8d25c154f32b993967b610dd657:
+    3736cbefcdb946ad81bb1f50770ee202:
       image_group_id: I2PD18031
-      title: Volume 2 of mdzod lha 'grel/
+      title: ''
       volume_number: 2
       total_pages: 384
-      base_file: v002.txt
 ebook_metadata:
   title: མཛོད་ལྷ་འགྲེལ།
   author: ''
